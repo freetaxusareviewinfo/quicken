@@ -17,14 +17,6 @@ How do I Download Quicken from Quicken.com to Install or Reinstall It?
 This guide explains how to download Quicken from its safe website.
 The steps are simple and helpful for both installation and reinstallation.
 
-Frequently Asked Questions
---------------------------
-
-- `How can I download Quicken again? <#faq1>`_
-- `Do I need to create a new account to reinstall Quicken? <#faq2>`_
-- `Can I download Quicken on a new computer? <#faq3>`_
-- `Where can I find the download option after signing in? <#faq4>`_
-- `What should I do after installing Quicken? <#faq5>`_
 
 Step-by-Step Guide
 ------------------
