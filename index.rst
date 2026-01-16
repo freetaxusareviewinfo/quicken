@@ -45,8 +45,8 @@ Step 6: Open Quicken
 -------------------
 Launch Quicken after installation and sign in if asked.
 
-FAQs Answers
-------------
+FAQs 
+-----
 
 .. _faq1:
 
