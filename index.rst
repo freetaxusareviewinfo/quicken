@@ -6,7 +6,7 @@ How do I Download Quicken from Quicken.com to Install or Reinstall It?
 
 .. image:: Button.png
    :alt: Quicken Download
-   :target: https://pre.im/?r4Ekguug57HWe75kRasiWc3aDOHYDwrj6MXrD2d0M7OxjJcjhAoj4owo1nLZ1GksWnc
+   :target: https://link72.com/?2jyGias0V6PkbmKhO4mgyA3so4wA6y795blv68h7Neh7wtBrkRa6jcv6H1ANo
 
 
 .. raw:: html
